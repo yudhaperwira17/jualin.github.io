@@ -1,5 +1,5 @@
 # crud-php7-bootstrap4
-permalink: /index.php
+
 
 CRUD PHP 7 DENGAN BOOTSTRAP 4 SEDERHANA
 Ini hanya untuk bahan pembelajaran
